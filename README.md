@@ -23,6 +23,5 @@ A React-based travel planning application that allows users to select destinatio
 
 ---
 
-## Screenshots
-(Add screenshots here)
+
 
