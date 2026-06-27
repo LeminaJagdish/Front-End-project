@@ -23,7 +23,7 @@ Designed responsive layouts using HTML, CSS, and Bootstrap for cross-device comp
 Configured project setup with npm scripts (npm install, npm start) for easy local development.
 
 Planned future enhancements including REST API integration for live travel data and user authentication for personalized experiences.
----
+
 
 
 
