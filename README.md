@@ -12,15 +12,17 @@ A React-based travel planning application that allows users to select destinatio
 - Form handling with validation
 - Responsive layout
 
-## How to Run
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start`
+Built React-based travel planner enabling users to select destinations, dates, and travel preferences.
 
-## Future Plans
-- Integrate REST API for live travel data
-- Add user authentication
+Implemented component-based architecture with reusable UI elements for forms, layouts, and travel cards.
 
+Developed form handling with validation logic to ensure accurate user input.
+
+Designed responsive layouts using HTML, CSS, and Bootstrap for cross-device compatibility.
+
+Configured project setup with npm scripts (npm install, npm start) for easy local development.
+
+Planned future enhancements including REST API integration for live travel data and user authentication for personalized experiences.
 ---
 
 
